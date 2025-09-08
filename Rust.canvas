@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0bd2f6134cc4df1f","type":"text","text":"1. [Constants](Constants)\n2. [Narrowed Constsants](Constants-Narrowed)\n3. [If-Else](obsidian://open?vault=Rule%20them%20all&file=If%20And%20Else)\n4. [Code Snippet](obsidian://open?vault=Rule%20them%20all&file=Code%20snippet)\n","x":-480,"y":-1180,"width":500,"height":200},
+		{"id":"bb0175c6f402786f","type":"file","file":"Code.md","x":-240,"y":-480,"width":680,"height":880},
+		{"id":"7592c6af24e85be4","type":"file","file":"Constants.md","x":-820,"y":-480,"width":520,"height":880,"color":"#3c3d53"},
+		{"id":"3c11af307cdb9a73","type":"file","file":"Constants-Narrowed.md","x":-820,"y":540,"width":520,"height":880}
+	],
+	"edges":[
+		{"id":"f37b6895ff0a32aa","fromNode":"0bd2f6134cc4df1f","fromSide":"left","toNode":"7592c6af24e85be4","toSide":"top"},
+		{"id":"b7a05ef86dde772c","fromNode":"0bd2f6134cc4df1f","fromSide":"right","toNode":"bb0175c6f402786f","toSide":"top"},
+		{"id":"05a38e1ef823feb6","fromNode":"7592c6af24e85be4","fromSide":"bottom","toNode":"3c11af307cdb9a73","toSide":"top"}
+	]
+}
